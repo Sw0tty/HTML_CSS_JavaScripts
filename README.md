@@ -1,2 +1,2 @@
-# First_Django_Project
-My First Django Project
+# HTML, CSS, JavaScripts
+Here i testing HTML, CSS, JavaScripts
